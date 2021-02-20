@@ -1,0 +1,26 @@
+{
+  "name": "class-01-lab",
+  "version": "1.0.0",
+  "description": "Class 01 Lab Example",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bnates/class-01-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bnates/class-01-lab/issues"
+  },
+  "homepage": "https://github.com/bnates/class-01-lab#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
